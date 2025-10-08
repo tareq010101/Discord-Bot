@@ -79,5 +79,4 @@ Enable the Message Content Intent and Guild Members Intent in your bot settings 
 
 
 ------->Author
-
-<<<<Tarek Elnaggar>>>>
+---> Tarek Elnaggar
